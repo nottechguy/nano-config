@@ -19,4 +19,8 @@ The `setup.sh` script will create a backup of the current .nanorc file and  repl
 
 Reopen the terminal in order to see the new changes.
 
+This is the result
+
+![nano theme](./nano_screenshot.png)
+
 See more about the tweaks that can be done to the editor [here](https://www.nano-editor.org/dist/latest/nanorc.5.html)
