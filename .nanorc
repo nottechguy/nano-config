@@ -1,0 +1,27 @@
+set atblanks
+set autoindent
+set trimblanks
+set tabsize 4
+# set tabstospaces
+
+set zap
+
+# Editor
+set minibar
+set indicator
+set linenumbers
+set multibuffer
+
+set titlecolor bold,white,blue
+set statuscolor white,blue
+set errorcolor bold,lightwhite,red
+set selectedcolor lightwhite,slate
+set stripecolor bold,yellow
+set scrollercolor blue
+set numbercolor blue
+set keycolor blue
+set functioncolor lightblue
+set minicolor bold,white,blue
+set promptcolor bold,white,blue
+
+include ~/.nano/syntax/ALL.nanorc
